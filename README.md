@@ -38,7 +38,7 @@ site: This operator allows you to search for pages that are within a specific we
 Following searches for all the sites that is in the domain yahoo.com
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/cfa0246a-0629-437d-8983-ed878a6b311d" />
+<img width="1264" height="750" alt="image" src="https://github.com/user-attachments/assets/ed84c60c-8905-420b-b2b8-36e2be31c2ee" />
 
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
