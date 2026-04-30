@@ -45,7 +45,7 @@ filetype: This operator allows you to search for files of a specific type. For e
 Following searches for pdf file in the domain yahoo.com
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/aec084b0-f512-450b-a636-acdce3bcf0c8" />
+<img width="1264" height="762" alt="image" src="https://github.com/user-attachments/assets/8426fdfe-bb90-47b4-838c-6b40cc1822dd" />
 
 
 
