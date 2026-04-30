@@ -52,27 +52,27 @@ Following searches for pdf file in the domain yahoo.com
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/e44c0206-4ec7-48ae-9cf4-d0aa5c838000" />
+<img width="1264" height="759" alt="image" src="https://github.com/user-attachments/assets/527963de-1a36-436a-8fc1-53f7a7e5ddcf" />
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/33cc4ff3-70f2-49ce-bc75-dccfe4d7a586" />
+<img width="1261" height="751" alt="image" src="https://github.com/user-attachments/assets/95e40592-8281-4b43-88e0-ddf9212df522" />
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/be5218d9-6ec9-4f6f-bc3e-9f80991a8df7" />
+<img width="1263" height="745" alt="image" src="https://github.com/user-attachments/assets/2ee15014-91f4-427e-9550-e61f86e3d0e3" />
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/2c29a65e-8451-48e5-acc3-15d3147b67c0" />
+<img width="1267" height="715" alt="image" src="https://github.com/user-attachments/assets/b66d92c6-3317-4dd8-858c-7317bded189a" />
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9bdc2e5e-4950-448e-9ac1-7d9f64ac5c6a" />
+<img width="1271" height="748" alt="image" src="https://github.com/user-attachments/assets/3469a8aa-c5e3-4471-9d34-18b34f36bc50" />
 
  
 ## DNS Enumeration
