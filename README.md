@@ -1,8 +1,8 @@
 # Enumeration
 Enumeration Techniques
 ```
-NAME: RIZWAN B
-REG.NO: 212224100051
+NAME: ABINAV AADITYA
+REG.NO: 212224040008
 ```
 
 # Explore Google hacking and enumeration 
